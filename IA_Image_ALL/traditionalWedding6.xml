@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+  <surprise>
+  	<traditional_wedding>
+      <sentiment> 1.53 </sentiment>
+      <emotion> 0.239 </emotion>
+    </traditional_wedding>
+  </surprise>
+  
+</imageAnno>

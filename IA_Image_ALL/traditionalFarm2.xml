@@ -1,0 +1,13 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+  <distraction>
+  	<traditional_farm>
+      <sentiment> 1.5 </sentiment>
+      <emotion> 0.075 </emotion>
+    </traditional_farm>
+  </distraction>
+  
+</imageAnno>

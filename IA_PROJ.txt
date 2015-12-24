@@ -1,0 +1,5 @@
+project oxford from microsoft
+
+http://www.hindawi.com/journals/cin/2015/971039/
+
+http://www.techtimes.com/articles/31437/20150208/can-a-computer-correctly-identify-sentiment-represented-by-an-image.htm

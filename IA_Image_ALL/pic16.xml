@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<imageAnno>
+  <sadness>
+    <heavy_rain>
+      <sentiment>-1.63</sentiment>
+      <emotion>0.196</emotion>
+    </heavy_rain>
+    <cold_rain>
+      <sentiment>-1.21</sentiment>
+      <emotion>0.194</emotion>
+    </cold_rain>
+  </sadness>
+</imageAnno>

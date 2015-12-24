@@ -1,0 +1,13 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+  <distraction>
+  	<little_bird>
+      <sentiment> 2.0 </sentiment>
+      <emotion> 0.162 </emotion>
+    </little_bird>
+  </distraction>
+  
+</imageAnno>

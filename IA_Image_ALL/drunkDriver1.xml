@@ -1,0 +1,13 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+  <distraction>
+  	<drunk_driver>
+      <sentiment> -1.89 </sentiment>
+      <emotion> 0.192 </emotion>
+    </drunk_driver>
+  </distraction>
+  
+</imageAnno>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<imageAnno>
+  <sadness>
+    <evil_eyes>
+      <sentiment>-1.52</sentiment>
+      <emotion>0.175</emotion>
+    </evil_eyes>
+    <broken_wings>
+      <sentiment>-2.0</sentiment>
+      <emotion>0.173</emotion>
+    </broken_wings>
+  </sadness>
+</imageAnno>

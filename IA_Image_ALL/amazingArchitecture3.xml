@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+  <amazement>
+  	<amazing_architecture>
+      <sentiment> 1.5 </sentiment>
+      <emotion> 0.743 </emotion>
+    </amazing_architecture>
+  </amazement>
+  
+</imageAnno>

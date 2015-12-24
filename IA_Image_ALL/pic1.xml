@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<imageAnno>
+  <giref>
+    <grieving_mothers>
+      <sentiment>-2.0</sentiment>
+      <emotion>0.931</emotion>
+    </grieving_mothers>
+    <bitter_tears>
+      <sentiment>-2.0</sentiment>
+      <emotion>0.239</emotion>
+    </bitter_tears>
+  </giref>
+  <sadness>
+    <sad_eyes>
+      <sentiment>-1.45</sentiment>
+      <emotion>0.716</emotion>
+    </sad_eyes>
+    <sad_face>
+      <sentiment>-1.39</sentiment>
+      <emotion>0.675</emotion>
+    </sad_face>
+  </sadness>
+</imageAnno>

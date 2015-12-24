@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+  <surprise>
+  	<pleasant_surprise>
+      <sentiment> 1.83</sentiment>
+      <emotion> 0.895 </emotion>
+    </pleasant_surprise>
+  </surprise>
+  
+</imageAnno>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<imageAnno>
+
+  <surprise>
+  	<outdoor_wedding>
+      <sentiment> 1.72 </sentiment>
+      <emotion> 0.182 </emotion>
+    </outdoor_wedding>
+  </surprise>
+  
+</imageAnno>
